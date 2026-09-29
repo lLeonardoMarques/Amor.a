@@ -1,0 +1,7 @@
+{
+  "name": "Amora Assessoria & Eventos",
+  "description": "Site moderno, elegante e minimalista de assessoria e coordenação de eventos e casamentos de alto padrão por Joyce Costa e Agatha Zillar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
